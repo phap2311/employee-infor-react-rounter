@@ -1,0 +1,32 @@
+{
+  "employee": [
+    {
+      "id": "2",
+      "name": "van huy",
+      "age": "18",
+      "date": "2001-10-21",
+      "email": "huy@gg"
+    },
+    {
+      "id": "3",
+      "name": "van khanh",
+      "age": "19",
+      "date": "2004-05-21",
+      "email": "khanh@gg"
+    },
+    {
+      "id": "4",
+      "name": "lê đăng ",
+      "age": "19",
+      "date": "2001-09-18",
+      "email": "anh@gmail.com"
+    },
+    {
+      "id": "ebc5",
+      "name": "lê đăng quang",
+      "age": "25",
+      "date": "2000/02/20",
+      "email": "quang@gmail.com"
+    }
+  ]
+}
